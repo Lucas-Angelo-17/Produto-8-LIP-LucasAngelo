@@ -1,0 +1,40 @@
+.how-section1{
+    margin-top:-15%;
+    padding: 10%;
+}
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+.how-section1 .row
+{
+    margin-top: 10%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 60%;
+}
+.cabecalho{
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: #ffa500;
+}
+.txcabecalho{
+    text-align: center;
+    min-height: 10em;
+    vertical-align: middle;
+    color: aliceblue;
+}
+.video{
+    display: inline-block;
+    
+}
